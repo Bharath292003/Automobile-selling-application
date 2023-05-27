@@ -1,4 +1,4 @@
-# cars-website
+# Automobile selling application
 It is a frontend based car selling website but I have added backend to the LOGIN form and Get in touch form using PHP and MySQL.
 Opening index.html using the web browser one can access the website.
 All the images used in the project is stored in images folder.
